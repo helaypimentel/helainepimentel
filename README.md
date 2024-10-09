@@ -10,9 +10,8 @@
 [![LinkedIn](https://img.shields.io/badge/MEU%20-LINKEDIN-FFFF00)](https://www.linkedin.com/in/helaine-de-souza-pimentel-63851460)
 [![Meu Perfil na DIO](https://img.shields.io/badge/MEU-PERFIL%20NA%20DIO-FFFF00)](https://www.linkedin.com/in/helaine-de-souza-pimentel-63851460)
 [![GitHub](https://img.shields.io/badge/MEU-PERFIL%20GITHUB-FFFF00)](https://github.com/helaypimentel)
-
 [![E-MAIL](https://img.shields.io/badge/FALE%20COMIGO-POR%20EMAIL-FFFF00)](mailto:pimentelhelaine@gmail.com)
-[![WHATSAPP](https://img.shields.io/badge/FALE%20COMIGO-WHATSAPP-FFFF00)](https://wa.me/5527995089338?text=Ol%C3%A1!%20Acabei%20de%20ver%20o%20seu%20perfil%20no%20GitHub!)
+[![WHATSAPP](https://img.shields.io/badge/FALE%20COMIGO%20POR-WHATSAPP-FFFF00)](https://wa.me/5527995089338?text=Ol%C3%A1!%20Acabei%20de%20ver%20o%20seu%20perfil%20no%20GitHub!)
 
 
 
